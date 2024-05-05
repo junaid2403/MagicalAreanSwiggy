@@ -1,1 +1,1 @@
-# MagicalAreanSwiggy
+# MagicalArenaSwiggy
